@@ -1,0 +1,6 @@
+{
+  "name": "MAIM",
+  "description": "MAIM - Holographic AI friend for Jitendra maurya with 3D avatar, hands-free voice chat, coding mode, utilities, GitHub uplink, and PIN-encrypted local vault",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
